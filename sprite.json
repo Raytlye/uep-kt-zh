@@ -1,9 +1,16 @@
 {
-    "friedhof": {
-        "width": 17,
-        "height": 17,
-        "x": 0,
-        "y": 0,
-        "pixelRatio": 1
-    }
+  "friedhof": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 0,
+    "y": 0
+  },
+  "wald": {
+    "height": 17,
+    "pixelRatio": 1,
+    "width": 17,
+    "x": 17,
+    "y": 0
+  }
 }
