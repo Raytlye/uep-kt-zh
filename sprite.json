@@ -1,16 +1,16 @@
 {
-  "friedhof_": {
-    "height": 64,
+  "cemetery": {
+    "height": 24,
     "pixelRatio": 1,
-    "width": 64,
+    "width": 24,
     "x": 0,
     "y": 0
   },
-  "wald_": {
-    "height": 64,
+  "circle": {
+    "height": 24,
     "pixelRatio": 1,
-    "width": 64,
-    "x": 64,
+    "width": 24,
+    "x": 24,
     "y": 0
   }
 }
