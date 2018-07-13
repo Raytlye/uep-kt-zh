@@ -6,11 +6,39 @@
     "x": 0,
     "y": 0
   },
-  "wald": {
+  "hochundflachmoor": {
     "height": 24,
     "pixelRatio": 1,
     "width": 24,
     "x": 24,
+    "y": 0
+  },
+  "intensiv_kultur": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 0,
+    "y": 24
+  },
+  "rebe": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 24,
+    "y": 24
+  },
+  "schilfgürtel": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 48,
+    "y": 0
+  },
+  "wald": {
+    "height": 24,
+    "pixelRatio": 1,
+    "width": 24,
+    "x": 72,
     "y": 0
   }
 }
